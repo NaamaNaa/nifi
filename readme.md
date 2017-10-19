@@ -10,6 +10,6 @@ Cas de figure simple
     - création d'un deuxième fichier qui récupère les fichiers générés et les enregistre en local suivant le chemin précisé
     - mise en place de la relation qui les lie
 
-    ![Alt text](./Capture d’écran 2017-10-19 à 06.11.29?raw=true "Flow 1 ")
+   <img width="854" alt="capture d ecran 2017-10-19 a 06 11 29" src="https://user-images.githubusercontent.com/25868888/31754171-2f5982f2-b496-11e7-9ee2-bbfda54c663f.png">
 
 # tuto 2 : GUI operations : https://www.youtube.com/watch?v=K8xz5YtlCo0
